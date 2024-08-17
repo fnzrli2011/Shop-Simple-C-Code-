@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fnzrli109\\source\\repos\\Shop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{726CE434-739D-4008-BAE2-C90A55C272A8}|Shop.CA\\Shop.CA.csproj|c:\\users\\fnzrli109\\source\\repos\\shop\\shop.ca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{726CE434-739D-4008-BAE2-C90A55C272A8}|Shop.CA\\Shop.CA.csproj|solutionrelative:shop.ca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97A2CD9C-8E8D-4BAF-9B6F-868158996587}|Shop.Buisness\\Shop.Buisness.csproj|c:\\users\\fnzrli109\\source\\repos\\shop\\shop.buisness\\implementations\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97A2CD9C-8E8D-4BAF-9B6F-868158996587}|Shop.Buisness\\Shop.Buisness.csproj|solutionrelative:shop.buisness\\implementations\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97A2CD9C-8E8D-4BAF-9B6F-868158996587}|Shop.Buisness\\Shop.Buisness.csproj|c:\\users\\fnzrli109\\source\\repos\\shop\\shop.buisness\\dtos\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97A2CD9C-8E8D-4BAF-9B6F-868158996587}|Shop.Buisness\\Shop.Buisness.csproj|solutionrelative:shop.buisness\\dtos\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97A2CD9C-8E8D-4BAF-9B6F-868158996587}|Shop.Buisness\\Shop.Buisness.csproj|c:\\users\\fnzrli109\\source\\repos\\shop\\shop.buisness\\dtos\\productgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97A2CD9C-8E8D-4BAF-9B6F-868158996587}|Shop.Buisness\\Shop.Buisness.csproj|solutionrelative:shop.buisness\\dtos\\productgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97A2CD9C-8E8D-4BAF-9B6F-868158996587}|Shop.Buisness\\Shop.Buisness.csproj|c:\\users\\fnzrli109\\source\\repos\\shop\\shop.buisness\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97A2CD9C-8E8D-4BAF-9B6F-868158996587}|Shop.Buisness\\Shop.Buisness.csproj|solutionrelative:shop.buisness\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA48CD46-83D2-4A97-AAB4-2DE557AEFF4A}|Shop.Data\\Shop.Data.csproj|c:\\users\\fnzrli109\\source\\repos\\shop\\shop.data\\dal\\shopdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA48CD46-83D2-4A97-AAB4-2DE557AEFF4A}|Shop.Data\\Shop.Data.csproj|solutionrelative:shop.data\\dal\\shopdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58363921-C0C8-4E73-B9FA-4AC87C8F28F8}|Shop.Core\\Shop.Core.csproj|c:\\users\\fnzrli109\\source\\repos\\shop\\shop.core\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58363921-C0C8-4E73-B9FA-4AC87C8F28F8}|Shop.Core\\Shop.Core.csproj|solutionrelative:shop.core\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58363921-C0C8-4E73-B9FA-4AC87C8F28F8}|Shop.Core\\Shop.Core.csproj|c:\\users\\fnzrli109\\source\\repos\\shop\\shop.core\\models\\base\\basemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58363921-C0C8-4E73-B9FA-4AC87C8F28F8}|Shop.Core\\Shop.Core.csproj|solutionrelative:shop.core\\models\\base\\basemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fnzrli109\\source\\repos\\Shop\\Shop.CA\\Program.cs",
+              "RelativeDocumentMoniker": "Shop.CA\\Program.cs",
+              "ToolTip": "C:\\Users\\fnzrli109\\source\\repos\\Shop\\Shop.CA\\Program.cs*",
+              "RelativeToolTip": "Shop.CA\\Program.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwBIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T15:38:27.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\fnzrli109\\source\\repos\\Shop\\Shop.Buisness\\Implementations\\ProductService.cs",
+              "RelativeDocumentMoniker": "Shop.Buisness\\Implementations\\ProductService.cs",
+              "ToolTip": "C:\\Users\\fnzrli109\\source\\repos\\Shop\\Shop.Buisness\\Implementations\\ProductService.cs",
+              "RelativeToolTip": "Shop.Buisness\\Implementations\\ProductService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAACQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T07:21:58.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\fnzrli109\\source\\repos\\Shop\\Shop.Buisness\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "Shop.Buisness\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\fnzrli109\\source\\repos\\Shop\\Shop.Buisness\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "Shop.Buisness\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T07:14:56.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductGetDTO.cs",
+              "DocumentMoniker": "C:\\Users\\fnzrli109\\source\\repos\\Shop\\Shop.Buisness\\DTOs\\ProductGetDTO.cs",
+              "RelativeDocumentMoniker": "Shop.Buisness\\DTOs\\ProductGetDTO.cs",
+              "ToolTip": "C:\\Users\\fnzrli109\\source\\repos\\Shop\\Shop.Buisness\\DTOs\\ProductGetDTO.cs",
+              "RelativeToolTip": "Shop.Buisness\\DTOs\\ProductGetDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T07:11:08.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\fnzrli109\\source\\repos\\Shop\\Shop.Buisness\\DTOs\\ProductCreateDTO.cs",
+              "RelativeDocumentMoniker": "Shop.Buisness\\DTOs\\ProductCreateDTO.cs",
+              "ToolTip": "C:\\Users\\fnzrli109\\source\\repos\\Shop\\Shop.Buisness\\DTOs\\ProductCreateDTO.cs",
+              "RelativeToolTip": "Shop.Buisness\\DTOs\\ProductCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T07:09:19.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShopData.cs",
+              "DocumentMoniker": "C:\\Users\\fnzrli109\\source\\repos\\Shop\\Shop.Data\\DAL\\ShopData.cs",
+              "RelativeDocumentMoniker": "Shop.Data\\DAL\\ShopData.cs",
+              "ToolTip": "C:\\Users\\fnzrli109\\source\\repos\\Shop\\Shop.Data\\DAL\\ShopData.cs",
+              "RelativeToolTip": "Shop.Data\\DAL\\ShopData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T06:50:01.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\fnzrli109\\source\\repos\\Shop\\Shop.Core\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Shop.Core\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\fnzrli109\\source\\repos\\Shop\\Shop.Core\\Models\\Product.cs",
+              "RelativeToolTip": "Shop.Core\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T06:40:09.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseModels.cs",
+              "DocumentMoniker": "C:\\Users\\fnzrli109\\source\\repos\\Shop\\Shop.Core\\Models\\Base\\BaseModels.cs",
+              "RelativeDocumentMoniker": "Shop.Core\\Models\\Base\\BaseModels.cs",
+              "ToolTip": "C:\\Users\\fnzrli109\\source\\repos\\Shop\\Shop.Core\\Models\\Base\\BaseModels.cs",
+              "RelativeToolTip": "Shop.Core\\Models\\Base\\BaseModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T06:38:48.354Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

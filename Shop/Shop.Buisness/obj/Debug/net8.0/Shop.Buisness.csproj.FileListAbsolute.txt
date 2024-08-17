@@ -1,0 +1,17 @@
+C:\Users\fnzrli109\source\repos\Shop\Shop.Buisness\obj\Debug\net8.0\Shop.Buisness.csproj.AssemblyReference.cache
+C:\Users\fnzrli109\source\repos\Shop\Shop.Buisness\obj\Debug\net8.0\Shop.Buisness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fnzrli109\source\repos\Shop\Shop.Buisness\obj\Debug\net8.0\Shop.Buisness.AssemblyInfoInputs.cache
+C:\Users\fnzrli109\source\repos\Shop\Shop.Buisness\obj\Debug\net8.0\Shop.Buisness.AssemblyInfo.cs
+C:\Users\fnzrli109\source\repos\Shop\Shop.Buisness\obj\Debug\net8.0\Shop.Buisness.csproj.CoreCompileInputs.cache
+C:\Users\fnzrli109\source\repos\Shop\Shop.Buisness\bin\Debug\net8.0\Shop.Buisness.deps.json
+C:\Users\fnzrli109\source\repos\Shop\Shop.Buisness\bin\Debug\net8.0\Shop.Buisness.dll
+C:\Users\fnzrli109\source\repos\Shop\Shop.Buisness\bin\Debug\net8.0\Shop.Buisness.pdb
+C:\Users\fnzrli109\source\repos\Shop\Shop.Buisness\bin\Debug\net8.0\Shop.Core.dll
+C:\Users\fnzrli109\source\repos\Shop\Shop.Buisness\bin\Debug\net8.0\Shop.Data.dll
+C:\Users\fnzrli109\source\repos\Shop\Shop.Buisness\bin\Debug\net8.0\Shop.Core.pdb
+C:\Users\fnzrli109\source\repos\Shop\Shop.Buisness\bin\Debug\net8.0\Shop.Data.pdb
+C:\Users\fnzrli109\source\repos\Shop\Shop.Buisness\obj\Debug\net8.0\Shop.Bui.48EBFB13.Up2Date
+C:\Users\fnzrli109\source\repos\Shop\Shop.Buisness\obj\Debug\net8.0\Shop.Buisness.dll
+C:\Users\fnzrli109\source\repos\Shop\Shop.Buisness\obj\Debug\net8.0\refint\Shop.Buisness.dll
+C:\Users\fnzrli109\source\repos\Shop\Shop.Buisness\obj\Debug\net8.0\Shop.Buisness.pdb
+C:\Users\fnzrli109\source\repos\Shop\Shop.Buisness\obj\Debug\net8.0\ref\Shop.Buisness.dll
